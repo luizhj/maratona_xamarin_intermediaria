@@ -1,6 +1,6 @@
-# maratona_xamarin_intermediaria
-Documentos da maratona xamarin intermediaria
+# Maratona Xamarin Brasil Intermediária 2017
 
+Documentos dos laboratórios.
 
 Playlists do youtube:
 - Módulo 01 - Introdução: https://www.youtube.com/playlist?list=PLrAnjNBb3gRk6ofilxRkq5jwWXY7bokmT
